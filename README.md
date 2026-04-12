@@ -81,12 +81,17 @@ developer = {
 
 ---
 
-## 📜 Certificates
+## 📜 Certifications
 
-| Certificate | Issuer | Status |
-|---|---|---|
-| Python | Kaggle | ✅ Completed |
-| Prompt Engineering for Everyone | IBM (Cognitive Class) | ✅ Completed |
+<div align="center">
+
+| 🏆 Certificate | 🏢 Issuer | 📅 Date | 🔗 |
+|:---|:---|:---|:---|
+| 🔴 **AI-Powered Shopping Ads** | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) **Google Skillshop** | Apr 2026 | [View ↗](https://skillshop.credential.net) |
+| 🔵 **Python** | ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) **Kaggle** | Apr 2026 | [View ↗](https://www.kaggle.com/learn/certification) |
+| 🟠 **Prompt Engineering for Everyone** | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) **IBM SkillsNetwork** | Apr 2026 | [View ↗](https://courses.cognitiveclass.ai/certificates/ecf9e5bbb40847d989b7928bb3c2310c) |
+
+</div>
 
 ---
 
@@ -101,16 +106,18 @@ developer = {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
-- [ ] Complete BTech CSE (KEAM)
+- [ ] Complete BTech CSE via KEAM 🎓
 - [ ] Build 5+ real deployed projects
-- [ ] Get IBM ML certificate
-- [ ] Learn DSA seriously
+- [ ] Get IBM Machine Learning certificate
+- [ ] Learn DSA seriously 💪
 - [ ] Contribute to Open Source
-- [x] Build a live e-commerce brand ✅
-- [x] Deploy AI backends on Render ✅
-- [x] Get Kaggle Python certificate ✅
+- [x] Built a live e-commerce brand ✅
+- [x] Deployed AI backends on Render ✅
+- [x] Got Kaggle Python certificate ✅
+- [x] Got Google Skillshop certificate ✅
+- [x] Got IBM certificate ✅
 
 ---
 
