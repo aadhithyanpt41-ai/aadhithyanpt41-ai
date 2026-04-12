@@ -23,7 +23,7 @@ developer = {
     "name"     : "Aadhithyan PT",
     "location" : "Palakkad, Kerala 🌴",
     "studying" : "Plus Two VHSE - Web Development & E-commerce",
-    "goal"     : "Software Engineer @ Google 🎯",
+    "goal"     : " Becoming a AI Engineer @ Google 🎯",
     "building" : ["Tejasvin.in", "T-Rex AI"],
     "hobbies"  : [ "coding" , "Ai researching" , "Photography ", "Video editing", "Graphic designing"],
 }
