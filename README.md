@@ -23,9 +23,9 @@ developer = {
     "name"     : "Aadhithyan PT",
     "location" : "Palakkad, Kerala 🌴",
     "studying" : "Plus Two VHSE - Web Development & E-commerce",
-    "goal"     : "AI Engineer @ Google 🎯",
-    "building" : ["Tejasvin.in", "T-Rex AI"],
-    "hobbies"  : ["Photography 📸", "Video editing", "graphic designing" , "coding"],
+    "goal"     : "Software Engineer @ Google 🎯",
+    "building" : ["Tejasvin.in", "T-Rex AI", "Chokkath Academy"],
+    "hobbies"  : ["Photography 📸", "Manga 📚", "Astronomy 🔭"],
 }
 ```
 
@@ -87,8 +87,8 @@ developer = {
 
 | 🏆 Certificate | 🏢 Issuer | 📅 Date | 🔗 |
 |:---|:---|:---|:---|
-| 🔴 **AI-Powered Shopping Ads** | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) **Google Skillshop** | Apr 2026 | [View ↗](https://skillshop.credential.net) |
-| 🔵 **Python** | ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) **Kaggle** | Apr 2026 | [View ↗](https://www.kaggle.com/learn/certification) |
+| 🔴 **AI-Powered Shopping Ads** | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) **Google Skillshop** | Apr 2026 | [View ↗](https://github.com/aadhithyanpt41-ai/certificates#-google-skillshop--ai-powered-shopping-ads-certification) |
+| 🔵 **Python** | ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) **Kaggle** | Apr 2026 | [View ↗](https://github.com/aadhithyanpt41-ai/certificates#-kaggle--python) |
 | 🟠 **Prompt Engineering for Everyone** | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) **IBM SkillsNetwork** | Apr 2026 | [View ↗](https://courses.cognitiveclass.ai/certificates/ecf9e5bbb40847d989b7928bb3c2310c) |
 
 </div>
