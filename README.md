@@ -24,8 +24,8 @@ developer = {
     "location" : "Palakkad, Kerala 🌴",
     "studying" : "Plus Two VHSE - Web Development & E-commerce",
     "goal"     : "Software Engineer @ Google 🎯",
-    "building" : ["Tejasvin.in", "T-Rex AI", "Chokkath Academy"],
-    "hobbies"  : ["Photography 📸", "Manga 📚", "Astronomy 🔭"],
+    "building" : ["Tejasvin.in", "T-Rex AI"],
+    "hobbies"  : [ "coding" , "Ai researching" , "Photography ", "Video editing", "Graphic designing"],
 }
 ```
 
